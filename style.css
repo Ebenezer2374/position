@@ -1,0 +1,20 @@
+img{
+    position: sticky;
+    top: 0;
+}
+.divone{
+    border: 2px solid blue;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 30px;
+}
+.innerdiv{
+    border: 2px solid green;
+    height: 250px;
+    width: 350px;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+
+}
